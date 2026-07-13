@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleReader/ConsoleReader.csproj" Id="349e816b-95e3-4e54-b308-2d6fcf854411" />
+  <Project Path="WriteRead/ConsoleWriter.csproj" />
+</Solution>

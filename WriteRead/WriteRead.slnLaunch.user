@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WriteRead\\ConsoleWriter.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ConsoleReader\\ConsoleReader.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

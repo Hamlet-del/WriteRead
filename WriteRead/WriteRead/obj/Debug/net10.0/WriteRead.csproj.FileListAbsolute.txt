@@ -1,0 +1,4 @@
+C:\Users\Kerobyan Family\source\repos\WriteRead\WriteRead\obj\Debug\net10.0\WriteRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerobyan Family\source\repos\WriteRead\WriteRead\obj\Debug\net10.0\WriteRead.AssemblyInfoInputs.cache
+C:\Users\Kerobyan Family\source\repos\WriteRead\WriteRead\obj\Debug\net10.0\WriteRead.AssemblyInfo.cs
+C:\Users\Kerobyan Family\source\repos\WriteRead\WriteRead\obj\Debug\net10.0\WriteRead.csproj.CoreCompileInputs.cache

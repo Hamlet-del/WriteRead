@@ -1,0 +1,14 @@
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\bin\Debug\net10.0\ConsoleReader.exe
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\bin\Debug\net10.0\ConsoleReader.deps.json
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\bin\Debug\net10.0\ConsoleReader.runtimeconfig.json
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\bin\Debug\net10.0\ConsoleReader.dll
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\bin\Debug\net10.0\ConsoleReader.pdb
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\obj\Debug\net10.0\ConsoleReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\obj\Debug\net10.0\ConsoleReader.AssemblyInfoInputs.cache
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\obj\Debug\net10.0\ConsoleReader.AssemblyInfo.cs
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\obj\Debug\net10.0\ConsoleReader.csproj.CoreCompileInputs.cache
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\obj\Debug\net10.0\ConsoleReader.dll
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\obj\Debug\net10.0\refint\ConsoleReader.dll
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\obj\Debug\net10.0\ConsoleReader.pdb
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\obj\Debug\net10.0\ConsoleReader.genruntimeconfig.cache
+C:\Users\Kerobyan Family\source\repos\WriteRead\ConsoleReader\obj\Debug\net10.0\ref\ConsoleReader.dll
